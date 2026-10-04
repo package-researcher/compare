@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[81935,["/compare/_next/static/chunks/0lzqwzcbsp_60.js","/compare/_next/static/chunks/42t2n5uyxseil.js"],"default"]
+4:I[97367,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"OutletBoundary"]
+8:I[97367,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"ViewportBoundary"]
+9:I[97367,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"MetadataBoundary"]
+a:I[27201,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"IconMark"]
+c:I[39756,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"default"]
+d:I[37457,["/compare/_next/static/chunks/0lzqwzcbsp_60.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"ob6DUv4pw7Gf62EwYpw4v","data":[{"rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","p",null,{"className":"p-8 text-center text-muted","children":"불러오는 중…"}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/compare/_next/static/chunks/42t2n5uyxseil.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"영상 분석 상품 | 패키지연구소"}],["$","meta","1",{"name":"description","content":"쇼핑 횟수, 선택관광, 가이드 경비, 출발 확정, 밤 출발까지. 여러 여행사 패키지를 상품가가 아니라 진짜 조건으로 비교해 드려요."}],["$","link","2",{"rel":"icon","href":"/compare/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
