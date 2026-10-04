@@ -1,40 +1,47 @@
 1:"$Sreact.fragment"
-2:I[22016,["/compare/_next/static/chunks/0omab4mcgkit9.js","/compare/_next/static/chunks/35zg9qhqje-f4.js"],""]
-3:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-8:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"ViewportBoundary"]
-9:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"MetadataBoundary"]
-7:X
-1d:X
-1d:C
-0:{"buildId":"1VMN_oRY8W3CgKnL5scXX","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl space-y-6 px-4 py-6","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/","className":"underline","children":"홈"}]," ","› ","북미・하와이"," › ","워싱턴D.C."]}],["$","header",null,{"children":[["$","h1",null,{"className":"text-3xl font-extrabold text-navy","children":["워싱턴D.C."," 패키지, 조건으로 비교"]}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed","children":["10/4","에 확인한 ","워싱턴D.C."," 패키지 ",["$","b",null,{"children":[0,"건"]}]," 중"," ","쇼핑 일정이 없는 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],","," ","선택관광이 없는 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],","," ","가이드 경비가 포함됐다고 표기한 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],"이었어요.",false,null]}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":["네이버 패키지의 인기 상품 위주로 확인한 결과예요 (네이버 기준 전체 ","11","건). 조건은 여행사 표기 기준이고, 최종 내용은 예약 화면에서 확인해 주세요."]}]]}],["$","section",null,{"className":"grid gap-3 sm:grid-cols-2 lg:grid-cols-4","children":[["$","$L2",null,{"href":"/search/?dest=WAS&c=shop0","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"쇼핑 0회"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=noopt","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"선택관광 없음"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=tips","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"가이드 경비 포함 표기"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=go","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"출발 확정"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}]]}],["$","section",null,{"children":[["$","div",null,{"className":"mb-3 flex items-end justify-between","children":[["$","h2",null,{"className":"text-xl font-extrabold text-navy","children":"현지 부담이 적은 순 10개"}],["$","$L2",null,{"href":"/search/?dest=WAS","className":"font-bold text-brand-strong underline","children":["워싱턴D.C."," 전체 보기"]}]]}],["$","p",null,{"className":"mb-3 text-sm text-muted","children":"쇼핑 횟수·선택관광·가이드 경비 표기를 합쳐 부담이 적은 순으로 놓고, 같으면 상품가 순이에요 (자체 기준)."}],["$","div",null,{"className":"grid gap-3 lg:grid-cols-2","children":[]}]]}]]}],[["$","script","script-0",{"src":"/compare/_next/static/chunks/35zg9qhqje-f4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}],["$","meta","1",{"name":"description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}],["$","meta","2",{"property":"og:title","content":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}],["$","meta","3",{"property":"og:description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]}],null]}],"isPartial":"$@1a","staleTime":"$7","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$7","varyParams":"$1d"},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$7","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
-22:I[27201,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"IconMark"]
-23:I[39756,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"default"]
-24:I[37457,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"default"]
-5:null
-a:["$","meta","4",{"property":"og:site_name","content":"패키지연구소"}]
-b:["$","meta","5",{"property":"og:locale","content":"ko_KR"}]
-c:["$","meta","6",{"property":"og:image","content":"https://package-researcher.github.io/compare/opengraph-image.png?opengraph-image.24qkelx_j6f18.png"}]
-d:["$","meta","7",{"property":"og:image:type","content":"image/png"}]
-e:["$","meta","8",{"property":"og:image:width","content":"1200"}]
-f:["$","meta","9",{"property":"og:image:height","content":"630"}]
-10:["$","meta","10",{"property":"og:type","content":"website"}]
-11:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
-12:["$","meta","12",{"name":"twitter:title","content":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}]
-13:["$","meta","13",{"name":"twitter:description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}]
-14:["$","meta","14",{"name":"twitter:image","content":"https://package-researcher.github.io/compare/opengraph-image.png?opengraph-image.24qkelx_j6f18.png"}]
-15:["$","meta","15",{"name":"twitter:image:type","content":"image/png"}]
-16:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
-17:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
-18:["$","link","18",{"rel":"icon","href":"/compare/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
-19:["$","$L22","19",{}]
-1b:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
-1e:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
-21:true
-7:300
-7:C
-20:0
-1a:"$undefined"
-1c:"$undefined"
-1f:"$undefined"
-6:"$undefined"
+2:I[22016,["/compare/_next/static/chunks/0omab4mcgkit9.js","/compare/_next/static/chunks/339klibp_-0tc.js"],""]
+3:I[105,["/compare/_next/static/chunks/0omab4mcgkit9.js","/compare/_next/static/chunks/339klibp_-0tc.js"],"default"]
+4:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"ViewportBoundary"]
+a:I[97367,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"MetadataBoundary"]
+8:X
+24:X
+24:C
+0:{"buildId":"wj7SK30sLc2XmcUIcsfmq","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl space-y-6 px-4 py-6","children":[["$","nav",null,{"className":"text-sm text-muted","children":[["$","$L2",null,{"href":"/","className":"underline","children":"홈"}]," ","› ","북미・하와이"," › ","워싱턴D.C."]}],["$","header",null,{"children":[["$","h1",null,{"className":"text-3xl font-extrabold text-navy","children":["워싱턴D.C."," 패키지, 조건으로 비교"]}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed","children":["10/4","에 확인한 ","워싱턴D.C."," 패키지 ",["$","b",null,{"children":[0,"건"]}]," 중"," ","쇼핑 일정이 없는 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],","," ","선택관광이 없는 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],","," ","가이드 경비가 포함됐다고 표기한 상품은 ",["$","b",null,{"children":[0,"건(",0,"%)"]}],"이었어요.",false,null]}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":["네이버 패키지의 인기 상품 위주로 확인한 결과예요."," ","조건은 여행사 표기 기준이고, 최종 내용은 예약 화면에서 확인해 주세요."]}],["$","$L3",null,{"className":"mt-4","title":"워싱턴D.C. 패키지 조건 비교","text":"워싱턴D.C. 패키지, 쇼핑·선택관광·가이드 경비로 비교해 봤어요","path":"/dest/WAS/"}]]}],["$","section",null,{"className":"grid gap-3 sm:grid-cols-2 lg:grid-cols-4","children":[["$","$L2",null,{"href":"/search/?dest=WAS&c=shop0","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"쇼핑 0회"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=noopt","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"선택관광 없음"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=tips","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"가이드 경비 포함 표기"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}],["$","$L2",null,{"href":"/search/?dest=WAS&c=go","className":"rounded-2xl bg-surface p-4 shadow-sm hover:shadow-md","children":[["$","p",null,{"className":"text-sm text-muted","children":"출발 확정"}],["$","p",null,{"className":"text-2xl font-extrabold text-navy","children":[0,"건 ",["$","span",null,{"className":"text-base font-bold text-muted","children":["/ ",0,"건 (",0,"%)"]}]]}],["$","p",null,{"className":"mt-1 text-sm font-bold text-brand-strong","children":"이 조건만 보기 →"}]]}]]}],["$","section",null,{"children":[["$","div",null,{"className":"mb-3 flex items-end justify-between","children":[["$","h2",null,{"className":"text-xl font-extrabold text-navy","children":"현지 부담이 적은 순 10개"}],["$","$L2",null,{"href":"/search/?dest=WAS","className":"font-bold text-brand-strong underline","children":["워싱턴D.C."," 전체 보기"]}]]}],["$","p",null,{"className":"mb-3 text-sm text-muted","children":"쇼핑 횟수·선택관광·가이드 경비 표기를 합쳐 부담이 적은 순으로 놓고, 같으면 상품가 순이에요 (자체 기준)."}],["$","div",null,{"className":"grid gap-3 lg:grid-cols-2","children":[]}]]}]]}],[["$","script","script-0",{"src":"/compare/_next/static/chunks/339klibp_-0tc.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#22314e"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}],["$","meta","1",{"name":"description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}],["$","link","2",{"rel":"manifest","href":"/compare/manifest.webmanifest"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}]}],null]}],"isPartial":"$@21","staleTime":"$8","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$8","varyParams":"$24"},{"rsc":"$L25","isPartial":"$@26","staleTime":"$8","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@27","rootVaryParams":null,"needsRuntimeRequest":"$@28"}
+29:I[27201,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"IconMark"]
+2a:I[39756,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"default"]
+2b:I[37457,["/compare/_next/static/chunks/0omab4mcgkit9.js"],"default"]
+6:null
+b:["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}]
+c:["$","meta","4",{"name":"apple-mobile-web-app-title","content":"패키지연구소"}]
+d:["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}]
+e:["$","meta","6",{"property":"og:title","content":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}]
+f:["$","meta","7",{"property":"og:description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}]
+10:["$","meta","8",{"property":"og:site_name","content":"패키지연구소"}]
+11:["$","meta","9",{"property":"og:locale","content":"ko_KR"}]
+12:["$","meta","10",{"property":"og:image","content":"https://package-researcher.github.io/compare/opengraph-image.png?opengraph-image.24qkelx_j6f18.png"}]
+13:["$","meta","11",{"property":"og:image:type","content":"image/png"}]
+14:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+15:["$","meta","13",{"property":"og:image:height","content":"630"}]
+16:["$","meta","14",{"property":"og:type","content":"website"}]
+17:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+18:["$","meta","16",{"name":"twitter:title","content":"워싱턴D.C. 패키지 조건 비교 — 쇼핑·선택관광·가이드 경비 | 패키지연구소"}]
+19:["$","meta","17",{"name":"twitter:description","content":"10/4 확인한 워싱턴D.C. 패키지 0건 중 쇼핑 0회 0건, 선택관광 없음 0건, 가이드 경비 포함 표기 0건. 상품가 말고 조건으로 비교하세요."}]
+1a:["$","meta","18",{"name":"twitter:image","content":"https://package-researcher.github.io/compare/opengraph-image.png?opengraph-image.24qkelx_j6f18.png"}]
+1b:["$","meta","19",{"name":"twitter:image:type","content":"image/png"}]
+1c:["$","meta","20",{"name":"twitter:image:width","content":"1200"}]
+1d:["$","meta","21",{"name":"twitter:image:height","content":"630"}]
+1e:["$","link","22",{"rel":"icon","href":"/compare/icon.png?icon.18no65huitk6u.png","sizes":"64x64","type":"image/png"}]
+1f:["$","link","23",{"rel":"apple-touch-icon","href":"/compare/apple-icon.png?apple-icon.3ckz4ogava_zd.png","sizes":"180x180","type":"image/png"}]
+20:["$","$L29","24",{}]
+22:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+25:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+28:true
+8:300
+8:C
+27:0
+21:"$undefined"
+23:"$undefined"
+26:"$undefined"
+7:"$undefined"
