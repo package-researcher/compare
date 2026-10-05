@@ -1,3 +1,0 @@
-:HL["/compare/_next/static/chunks/1_8x212z-00w1.css","style"]
-:HL["https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"dest","param":null,"prefetchHints":4160,"slots":{"children":{"name":"code","param":{"type":"d","key":"GUM","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"small-minimum","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"0DWFk8FC2R8hacHh7Z0z8"}

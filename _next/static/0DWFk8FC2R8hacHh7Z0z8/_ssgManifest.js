@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fcond\u002F[slug]","\u002Fdest\u002F[code]","\u002Fdest\u002F[code]\u002F[slug]","\u002Fseason\u002F[slug]","\u002Ftours\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
